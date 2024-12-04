@@ -1,7 +1,3 @@
-### What's going on?
+### this project is a rewrite of my YemenIPCC project in Rust
 
-this project is going to be re-written in Rust !
-
-care to see what I've [done](https://github.com/Abdullah-Albanna/YemenIPCC/tree/dev) so far?
-
-the [old](https://github.com/Abdullah-Albanna/YemenIPCC/tree/python) python codebase is still avaiable
+care to see what I've [done](https://github.com/Abdullah-Albanna/yemenipcc-rs/tree/dev)
